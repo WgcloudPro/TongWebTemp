@@ -12,6 +12,6 @@
   ![image](https://github.com/WgcloudPro/TongWebTemp/assets/131434608/0cf3b509-cf47-4e07-88fa-a6433c573b1a)
   
   
-  [![详情](https://github.com/WgcloudPro/TongWebTemp/assets/131434608/e87588ff-83ff-4db2-a4fd-f3855e353d99)](https://www.kuaifaka.net/purchasing?link=VHpxwhY)
+  <a herf="https://www.kuaifaka.net/purchasing?link=VHpxwhY"><img src="https://github.com/WgcloudPro/TongWebTemp/assets/131434608/e87588ff-83ff-4db2-a4fd-f3855e353d99"></a>
 
 
